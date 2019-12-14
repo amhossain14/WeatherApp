@@ -26,9 +26,10 @@ public class MainActivity extends AppCompatActivity {
     WeatherService weatherService;
 
     // hello
-    // it
-    // me
-    //copy me from what is happening
+EditText AA;
+    EditText AasdasdasdasdasA;
+
+    EditText AasdasdasdasdaasdasdsssA;
 
 
     @Override
