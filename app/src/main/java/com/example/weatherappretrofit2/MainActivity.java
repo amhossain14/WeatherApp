@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     String zipcode;
     WeatherService weatherService;
+    EditText aaaaaaaaaa;
 
     // hello
     Button tttttttt;
@@ -43,6 +44,7 @@ Button test;
         search_button = findViewById(R.id.search_button);
 
         tttttttt = findViewById(R.id.tttttttt);
+        aaaaaaaaaa = findViewById(R.id.aaaaaaaaaa);
 
         test = findViewById(R.id.test);
 

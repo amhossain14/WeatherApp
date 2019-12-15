@@ -14,6 +14,18 @@
         android:layout_height="wrap_content"
         android:hint="Enter Zip code"/>
 
+
+
+
+
+    <EditText
+        android:id="@+id/aaaaaaaaaa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="aaaaaaaaaa"/>
+
+
+
     <Button
         android:id="@+id/search_button"
         android:layout_width="match_parent"
