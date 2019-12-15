@@ -26,10 +26,7 @@ public class MainActivity extends AppCompatActivity {
     WeatherService weatherService;
 
     // hello
-EditText AA;
-    EditText AasdasdasdasdasA;
-
-    EditText AasdasdasdasdaasdasdsssA;
+Button test;
 
 
     @Override
@@ -43,6 +40,7 @@ EditText AA;
         display = findViewById(R.id.display);
         search_Edit = findViewById(R.id.search_Edit);
         search_button = findViewById(R.id.search_button);
+        test = findViewById(R.id.test);
 
 
         final Retrofit retrofit = new Retrofit.Builder()
