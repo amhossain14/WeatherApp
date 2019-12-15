@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     WeatherService weatherService;
 
     // hello
+    Button tttttttt;
 Button test;
 
 
@@ -40,6 +41,9 @@ Button test;
         display = findViewById(R.id.display);
         search_Edit = findViewById(R.id.search_Edit);
         search_button = findViewById(R.id.search_button);
+
+        tttttttt = findViewById(R.id.tttttttt);
+
         test = findViewById(R.id.test);
 
 
